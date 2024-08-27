@@ -57,11 +57,10 @@ const Footer = () => {
       <div className="w-full lg:w-1/5 text-center lg:text-left">
         <h2 className="text-2xl mb-2">Contact Us</h2>
         <p className="text-sm">
-          505, Sunshine Apartments, Gandhi Nagar, Ashok Nagar, Karnataka -
-          405678
+          505, Sunshine Apartments, Roehampton
         </p>
-        <p className="text-sm">9876543210</p>
-        <p className="text-sm"> MediCentral@gmail.com</p>
+        <p className="text-sm">+44 9876543210</p>
+        <p className="text-sm"> pricetrackerpro@gmail.com</p>
       </div>
     </div>
   );
